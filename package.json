@@ -2,9 +2,16 @@
   "name": "css-compatible-loader",
   "version": "1.0.1",
   "main": "index.js",
+  "description": "A webpack loader, for css compatible",
   "license": "MIT",
   "type": "module",
-  "dependencies": {
+  "author": "zedyang",
+  "dependencies": {},
+  "keywords": [
+    "webpack",
+    "loader"
+  ],
+  "devDependencies": {
     "loader-utils": "^2.0.0"
   }
 }
